@@ -1,3 +1,9 @@
+---
+mathjax: true
+---
+
+
+
 Will Github Pages + Jekyll + Kramdown support TeX?
 
 $$ a^2+b^2=c^2 $$
